@@ -1,0 +1,19 @@
+Response: stdClass Object
+(
+    [type] => verification
+    [event_date] => 2015-06-20T16:32:39-05:00
+    [verification_code] => MYz9Fi1A
+    [id] => w0oiqxolws6znpqc0zfv
+)
+
+ Data:  Yes | MYz9Fi1AResponse: 
+ Data:MYz9Fi1A  Yes | Response: 
+ Data:  No | Response: stdClass Object
+(
+    [type] => verification
+    [event_date] => 2015-06-20T16:42:56-05:00
+    [verification_code] => 58jyX41X
+    [id] => wq5r5fne8rrcmbsobxjq
+)
+
+ Data:  Yes | 58jyX41X
